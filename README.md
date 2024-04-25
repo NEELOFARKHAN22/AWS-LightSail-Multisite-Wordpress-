@@ -73,3 +73,4 @@ To safeguard your data and quickly recover from failures, follow these steps:
 This POC successfully demonstrates the setup of a WordPress multisite instance on AWS Lightsail, including SSL configuration, auto-renewal, domain redirection, and snapshot provisioning.
 
 For any queries or assistance, feel free to reach out.
+## 🌟 Thank you ! 🌟
