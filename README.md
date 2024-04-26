@@ -4,6 +4,7 @@
 Setup of a WordPress multisite instance on AWS Lightsail. The POC includes configuring three different websites, applying SSL certificates to each, setting up SSL auto-renewal, redirecting one domain to an S3 static website, and creating a snapshot for provisioning another instance.
 
 ## Steps
+
 1. **Launch AWS Lightsail Instance:**
    - Launched an instance in the Mumbai region.
    - Chose WordPress Multisite blueprint.
@@ -73,4 +74,5 @@ To safeguard your data and quickly recover from failures, follow these steps:
 This POC successfully demonstrates the setup of a WordPress multisite instance on AWS Lightsail, including SSL configuration, auto-renewal, domain redirection, and snapshot provisioning.
 
 For any queries or assistance, feel free to reach out.
+
 ## 🌟 Thank you ! 🌟
